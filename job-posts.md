@@ -37,12 +37,12 @@ Labels: "I can prove this", "I can do this but have no proof", "I cannot do this
 | Performance | 5 | I cannot do this yet | Plan: Matinee k6 test, component tests |
 | Customer conversations / user research | 4 | I cannot do this yet | Plan: Matinee usability test |
 | Visual craft (type, colour, layout, polish) | 3 | I can prove this | https://davebuilds.vercel.app/ ; https://phunmix-delight.vercel.app/ |
-| Async written communication | 3 | I can prove this | README, docs and PR descriptions: https://github.com/Hennit-Dave/freelancemarketplace-API/pull/1 ; https://github.com/HafidIdrissi/Time-Tracker/pull/338 ; DOCUMENTATION.md in the Job Application Manager repo; API case study on the portfolio |
+| Async written communication | 3 | I can prove this | README, docs and PR descriptions: https://github.com/Hennit-Dave/freelancemarketplace-API/pull/1 ; https://github.com/HafidIdrissi/Time-Tracker/pull/338 ; https://github.com/HafidIdrissi/Time-Tracker/pull/359 (maintainer's merge note thanked the separated validation evidence) ; DOCUMENTATION.md in the Job Application Manager repo; API case study on the portfolio |
 | Backend basics (Node, Postgres, Redis, REST) | 3 | I can prove this | https://github.com/Hennit-Dave/freelancemarketplace-API : Next.js API routes under /api/v1, Postgres on Neon via Prisma (pooled and direct connections), Zod validation, Upstash Redis rate limiting (100 per minute per IP, fails closed with a 503), money as integer minor units, seeded with 150/200/372/400/65 rows, automated tests. Live: https://freelancemarketplaceapi.vercel.app/api/v1/gigs . Auth: https://github.com/Hennit-Dave/Jobapplicationmanager-assessment-1 |
 | Code review and mentoring | 3 | I cannot do this yet | Plan: PR reviews, open source |
 | Figma | 2 | I can do this but have no proof | Plan: Rota UX phase, Part 4 chat UX |
 | Motion / animation | 2 | I can do this but have no proof | Plan: Matinee seat selection, Rota transitions |
-| Accessibility | 2 | I cannot do this yet | Plan: Matinee (labels, contrast, focus) |
+| Accessibility | 2 | I can prove this | Semantic HTML / bidirectional text isolation, merged: https://github.com/HafidIdrissi/Time-Tracker/pull/359 . Labels, contrast and focus not yet proven. Plan: Matinee, and OpsiMate #1122 |
 | Portfolio required to apply | 2 | I can prove this | https://davebuilds.vercel.app/ |
 | GraphQL | 2 | I cannot do this yet | Optional, not planned |
 | Vue | 2 | I cannot do this yet | Optional, not planned |
