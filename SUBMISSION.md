@@ -21,7 +21,7 @@
 | PR | Project | What it does | Status |
 |---|---|---|---|
 | [Time-Tracker #359](https://github.com/HafidIdrissi/Time-Tracker/pull/359) | Local Time Tracker | Isolates right-to-left window titles with `<bdi dir="auto">` in report tables, with an HTMLParser regression test. All 5 CI checks passing, including Windows | Merged 9 Oct 2026 |
-| [OpsiMate #1148](https://github.com/OpsiMate/OpsiMate/pull/1148) | OpsiMate | Fixes the action-run metric so successful runs are counted as `success` instead of `error`, with a Vitest regression test | Open, awaiting maintainer review |
+| [OpsiMate #1148](https://github.com/OpsiMate/OpsiMate/pull/1148) | OpsiMate | Fixes the action-run metric so successful runs are counted as `success` instead of `error`, with a Vitest regression test | Merged 11 Oct 2026 |
 
 **Earlier merged PR (before this task)**
 
@@ -44,8 +44,14 @@
 
 **Week of 6 Oct**
 1. Merged PR — right-to-left title isolation in Local Time Tracker: https://lnkd.in/p/dZJNMxPd
-2. What 10 design engineer job posts actually ask for: 
+2. What 10 design engineer job posts actually ask for: https://lnkd.in/p/dTyCJurt
+3. Two merged PRs in a week, and the three things that made them merge fast: https://lnkd.in/p/d3TcBvtd
+
+**Week of 13 Oct**
+1.
+2. 
 3.
+
 
 ## Part 2: Mobile apps
 ### Rota
