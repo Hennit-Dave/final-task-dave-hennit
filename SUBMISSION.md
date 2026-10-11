@@ -12,6 +12,7 @@
 - Job post analysis + skill gaps: [job-posts.md](./job-posts.md)
 - Lead tracker (view-only): https://docs.google.com/spreadsheets/d/1TZTkKmbPBNSnFwDaLNNwZSpem-U5D6YX7Gqkea-bkwc/edit?usp=sharing
 - Message library: https://docs.google.com/spreadsheets/d/1TZTkKmbPBNSnFwDaLNNwZSpem-U5D6YX7Gqkea-bkwc/edit#gid=2 (in progress, reply rates fill in once messages are sent)
+- Daily log: https://docs.google.com/spreadsheets/d/1TZTkKmbPBNSnFwDaLNNwZSpem-U5D6YX7Gqkea-bkwc/edit#gid=1
 
 ## Open source contributions
 
@@ -19,8 +20,8 @@
 
 | PR | Project | What it does | Status |
 |---|---|---|---|
-| [OpsiMate #1148](https://github.com/OpsiMate/OpsiMate/pull/1148) | OpsiMate | Fixes the action-run metric so successful runs are counted as `success` instead of `error`, with a Vitest regression test | Open, awaiting maintainer review |
 | [Time-Tracker #359](https://github.com/HafidIdrissi/Time-Tracker/pull/359) | Local Time Tracker | Isolates right-to-left window titles with `<bdi dir="auto">` in report tables, with an HTMLParser regression test. All 5 CI checks passing, including Windows | Merged 9 Oct 2026 |
+| [OpsiMate #1148](https://github.com/OpsiMate/OpsiMate/pull/1148) | OpsiMate | Fixes the action-run metric so successful runs are counted as `success` instead of `error`, with a Vitest regression test | Open, awaiting maintainer review |
 
 **Earlier merged PR (before this task)**
 
