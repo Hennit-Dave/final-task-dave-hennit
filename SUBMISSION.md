@@ -48,14 +48,27 @@
 3. Two merged PRs in a week, and the three things that made them merge fast: https://lnkd.in/p/d3TcBvtd
 
 **Week of 13 Oct**
-1.
-2. 
+1.Two Agents, One Set of Rules:https://lnkd.in/p/d5yxG3tK
+2. When Offline Changes Should Wait:https://lnkd.in/p/dqJmquxa
 3.
 
 
 ## Part 2: Mobile apps
 ### Rota
-- Repo / Build / Backend / Docs / Tests / Load test / Demo video / Post:
+- **Repo:** https://github.com/Hennit-Dave/rota
+- **Android build:**
+- **Deployed backend:**
+- **Docs:** README:https://github.com/Hennit-Dave/rota/blob/main/README.md
+ARCHITECTURE.md:
+STATE.md:
+SECURITY.md:
+SHARDING.md:
+LEARNING-LOG.md:https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md
+- **Architecture diagram:**
+- **Tests:** permissions · team isolation · proration
+- **Load test report:**
+- **Demo video:**
+- **LinkedIn post:**
 ### Matinee
 - Repo / Build / Backend / Figma / Docs / Load test / Demo video / Post:
 - Case studies:
