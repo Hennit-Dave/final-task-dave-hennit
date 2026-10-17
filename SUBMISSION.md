@@ -8,7 +8,7 @@
 ## Part 1: Job preparation
 - GitHub profile: https://github.com/Hennit-Dave
 - LinkedIn: https://www.linkedin.com/in/dave-hennit
-- Portfolio: https://davebuilds.vercel.app/
+- Portfolio: https://www.davebuilds.design
 - Job post analysis + skill gaps: [job-posts.md](./job-posts.md)
 - Lead tracker (view-only): https://docs.google.com/spreadsheets/d/1TZTkKmbPBNSnFwDaLNNwZSpem-U5D6YX7Gqkea-bkwc/edit?usp=sharing
 - Message library: https://docs.google.com/spreadsheets/d/1TZTkKmbPBNSnFwDaLNNwZSpem-U5D6YX7Gqkea-bkwc/edit#gid=2 (in progress, reply rates fill in once messages are sent)
