@@ -48,9 +48,9 @@
 3. Two merged PRs in a week, and the three things that made them merge fast: https://lnkd.in/p/d3TcBvtd
 
 **Week of 13 Oct**
-1.Two Agents, One Set of Rules:https://lnkd.in/p/d5yxG3tK
+1 Two Agents, One Set of Rules:https://lnkd.in/p/d5yxG3tK
 2. When Offline Changes Should Wait:https://lnkd.in/p/dqJmquxa
-3.
+3. Importance of ADRs:https://lnkd.in/p/dCrXma2G
 
 
 ## Part 2: Mobile apps
