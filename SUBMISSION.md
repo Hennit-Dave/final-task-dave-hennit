@@ -52,23 +52,36 @@
 2. When Offline Changes Should Wait:https://lnkd.in/p/dqJmquxa
 3. Importance of ADRs:https://lnkd.in/p/dCrXma2G
 
+**Week of 20 Oct**
+1.Why my login server keeps attackers guessing, on purpose: https://lnkd.in/p/d78H_d6F
+2.My free database fell asleep, and my login broke: https://lnkd.in/p/d-krDBKv
 
-## Part 2: Mobile apps
+
+
+
+## Part 2: Mobile apps 
+
 ### Rota
 - **Repo:** https://github.com/Hennit-Dave/rota
 - **Android build:**
 - **Deployed backend:**
-- **Docs:** README:https://github.com/Hennit-Dave/rota/blob/main/README.md
-ARCHITECTURE.md:
+
+- **Docs:**
+README:https://github.com/Hennit-Dave/rota/blob/main/README.md
+ARCHITECTURE.md:https://github.com/Hennit-Dave/rota/blob/main/docs/ARCHITECTURE.md
 STATE.md:
-SECURITY.md:
+SECURITY.md:https://github.com/Hennit-Dave/rota/blob/main/docs/SECURITY.md 
 SHARDING.md:
-LEARNING-LOG.md:https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md
+LEARNING-LOG.md:https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md 
+
+
 - **Architecture diagram:**
-- **Tests:** permissions · team isolation · proration
+- **Tests:** permissions · team isolation · proration 
 - **Load test report:**
 - **Demo video:**
 - **LinkedIn post:**
+
+
 ### Matinee
 - Repo / Build / Backend / Figma / Docs / Load test / Demo video / Post:
 - Case studies:
