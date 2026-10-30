@@ -55,7 +55,12 @@
 **Week of 20 Oct**
 1.Why my login server keeps attackers guessing, on purpose: https://lnkd.in/p/d78H_d6F
 2.My free database fell asleep, and my login broke: https://lnkd.in/p/d-krDBKv
+3.First real team invite email.- https://lnkd.in/p/d-8C-Q-W
 
+**Week of 27 Oct**
+1.A failed response doesn’t always mean a failed request- https://lnkd.in/p/dtbbu6Np
+2.Five retries arrived together. Two came back as conflicts- https://lnkd.in/p/d8UhDhC4
+3.My test payment ended up in the wrong database- https://lnkd.in/p/d4bREn87
 
 
 
@@ -69,9 +74,9 @@
 - **Docs:**
 README:https://github.com/Hennit-Dave/rota/blob/main/README.md
 ARCHITECTURE.md:https://github.com/Hennit-Dave/rota/blob/main/docs/ARCHITECTURE.md
-STATE.md:
+STATE.md: https://github.com/Hennit-Dave/rota/blob/main/docs/STATE.md
 SECURITY.md:https://github.com/Hennit-Dave/rota/blob/main/docs/SECURITY.md 
-SHARDING.md:
+SHARDING.md: https://github.com/Hennit-Dave/rota/blob/main/docs/SHARDING.md
 LEARNING-LOG.md:https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md 
 
 
