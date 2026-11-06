@@ -68,23 +68,25 @@
 
 ### Rota
 - **Repo:** https://github.com/Hennit-Dave/rota
-- **Android build:**
-- **Deployed backend:**
-
+- **Android build (preview APK):** https://expo.dev/accounts/hennitdave/projects/rota/builds/a7d7a16c-6699-493a-b139-c7ce640d1c9f
+- **Deployed backend:** https://api.rota.davebuilds.design/health
+- **Architecture diagram:** https://github.com/Hennit-Dave/rota/blob/main/docs/ARCHITECTURE.md
+- **Tests:**
+  - Permissions: https://github.com/Hennit-Dave/rota/blob/main/server/src/teams/permissions.unit.test.ts
+  - Team isolation: https://github.com/Hennit-Dave/rota/blob/main/server/src/teams/team-security.integration.test.ts
+  - Proration: https://github.com/Hennit-Dave/rota/blob/main/server/src/billing/proration.unit.test.ts
+- **Load test report:** https://github.com/Hennit-Dave/rota/blob/main/load-tests/REPORT.md
 - **Docs:**
-README:https://github.com/Hennit-Dave/rota/blob/main/README.md
-ARCHITECTURE.md:https://github.com/Hennit-Dave/rota/blob/main/docs/ARCHITECTURE.md
-STATE.md: https://github.com/Hennit-Dave/rota/blob/main/docs/STATE.md
-SECURITY.md:https://github.com/Hennit-Dave/rota/blob/main/docs/SECURITY.md 
-SHARDING.md: https://github.com/Hennit-Dave/rota/blob/main/docs/SHARDING.md
-LEARNING-LOG.md:https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md 
-
-
-- **Architecture diagram:**
-- **Tests:** permissions · team isolation · proration 
-- **Load test report:**
-- **Demo video:**
-- **LinkedIn post:**
+  - README: https://github.com/Hennit-Dave/rota/blob/main/README.md
+  - Architecture: https://github.com/Hennit-Dave/rota/blob/main/docs/ARCHITECTURE.md
+  - Security: https://github.com/Hennit-Dave/rota/blob/main/docs/SECURITY.md
+  - Sharding: https://github.com/Hennit-Dave/rota/blob/main/docs/SHARDING.md
+  - App state: https://github.com/Hennit-Dave/rota/blob/main/docs/STATE.md
+  - Decisions (ADRs): https://github.com/Hennit-Dave/rota/tree/main/docs/decisions
+  - Learning log: https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md
+  - Submission checklist: https://github.com/Hennit-Dave/rota/blob/main/SUBMISSION.md
+- **Demo video:** pending
+- **LinkedIn post:** pending
 
 
 ### Matinee
