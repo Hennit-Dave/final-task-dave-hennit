@@ -85,8 +85,8 @@
   - Decisions (ADRs): https://github.com/Hennit-Dave/rota/tree/main/docs/decisions
   - Learning log: https://github.com/Hennit-Dave/rota/blob/main/LEARNING-LOG.md
   - Submission checklist: https://github.com/Hennit-Dave/rota/blob/main/SUBMISSION.md
-- **Demo video:** pending
-- **LinkedIn post:** pending
+- **Demo video:** https://lnkd.in/p/dn2k73bD
+- **LinkedIn post:** https://lnkd.in/p/dn2k73bD
 
 
 ### Matinee
