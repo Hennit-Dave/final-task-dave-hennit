@@ -40,7 +40,7 @@ This repository contains the graduation submission documents, career preparation
 ### 2. Featured Projects
 
 - **[Rota](https://github.com/Hennit-Dave/rota)**: Mobile shift & schedule management application with clean architecture, offline-friendly state handling, and automated test coverage.
-- **Matinee**: High-polish mobile application showcasing component design systems, interactions, and performance benchmarks.
+- **[Matinee](https://github.com/Hennit-Dave/matinee-mobile https://github.com/Hennit-Dave/matinee-server)** High-polish mobile application showcasing component design systems, interactions, and performance benchmarks.
 
 ### 3. Technical Writing & Insights
 
