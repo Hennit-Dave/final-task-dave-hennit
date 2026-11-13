@@ -90,8 +90,27 @@
 
 
 ### Matinee
-- Repo / Build / Backend / Figma / Docs / Load test / Demo video / Post:
-- Case studies:
+- **Repo:**
+  - Mobile: https://github.com/Hennit-Dave/matinee-mobile
+  - Server: https://github.com/Hennit-Dave/matinee-server
+- **Android build:**
+- **Deployed backend:**
+- **Figma:** https://www.figma.com/design/76VKO0l9gGt5YMNYtH8yvM
+- **Docs:**
+  - README (mobile): https://github.com/Hennit-Dave/matinee-mobile/blob/main/README.md
+  - README (server): https://github.com/Hennit-Dave/matinee-server/blob/main/README.md
+  - Architecture: ARCHITECTURE.md — not written yet (required deliverable → matinee-server)
+  - Traffic management:TRAFFIC.md — not written yet (required deliverable → matinee-server)
+  - Sharding (plan only):SHARDING.md — not written yet (required deliverable → matinee-server)
+  - Components:https://github.com/Hennit-Dave/matinee-mobile/blob/main/docs/COMPONENTS.md
+  - Design study (5 apps):https://github.com/Hennit-Dave/matinee-mobile/blob/main/docs/DESIGN-STUDY.md
+  - Decisions (ADRs):https://github.com/Hennit-Dave/matinee-server/tree/main/docs/decisions
+  - Learning log (mobile):https://github.com/Hennit-Dave/matinee-mobile/blob/main/LEARNING-LOG.md
+  - Learning log (server):https://github.com/Hennit-Dave/matinee-server/blob/main/LEARNING-LOG.md
+- **Load test report:**
+- **Demo video:**
+- **LinkedIn post:**
+- Case study:
 
 ## Part 3: System design
 - DESIGN.md / Diagram / Prototype / Load test + failure drill / Walkthrough / Mock interview notes:
